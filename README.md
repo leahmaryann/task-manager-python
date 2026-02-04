@@ -1,7 +1,7 @@
 # Task Manager Application
 
 ## Overview
-This project is a command-line Task Manager application built in Python. It allows users to log in, view assigned tasks, and manage task completion or edits based on their role. The system uses file-based storage to persist user and task data.
+This project is a command-line Task Manager application built in Python. It allows users to log in, view assigned tasks, and manage task completion or edits based on their role. The system uses file-based storage to for user and task data.
 
 ## Features
 - User authentication
